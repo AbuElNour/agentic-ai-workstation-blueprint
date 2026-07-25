@@ -1,0 +1,9 @@
+all:
+  hosts:
+    inference-a:
+      ansible_host: 192.0.2.10
+    control-plane:
+      ansible_host: 192.0.2.20
+  vars:
+    remote_access_host: workstation.example.com
+

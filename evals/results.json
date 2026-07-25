@@ -1,0 +1,161 @@
+{
+  "mode": "deterministic-offline",
+  "cases": 10,
+  "trials": 30,
+  "passed": 30,
+  "success_rate": 1.0,
+  "p50_latency_ms": 0.002,
+  "estimated_cost_usd": 0,
+  "results": [
+    {
+      "case_id": "route-1",
+      "trial": 1,
+      "passed": true
+    },
+    {
+      "case_id": "route-1",
+      "trial": 2,
+      "passed": true
+    },
+    {
+      "case_id": "route-1",
+      "trial": 3,
+      "passed": true
+    },
+    {
+      "case_id": "route-2",
+      "trial": 1,
+      "passed": true
+    },
+    {
+      "case_id": "route-2",
+      "trial": 2,
+      "passed": true
+    },
+    {
+      "case_id": "route-2",
+      "trial": 3,
+      "passed": true
+    },
+    {
+      "case_id": "route-3",
+      "trial": 1,
+      "passed": true
+    },
+    {
+      "case_id": "route-3",
+      "trial": 2,
+      "passed": true
+    },
+    {
+      "case_id": "route-3",
+      "trial": 3,
+      "passed": true
+    },
+    {
+      "case_id": "failover-1",
+      "trial": 1,
+      "passed": true
+    },
+    {
+      "case_id": "failover-1",
+      "trial": 2,
+      "passed": true
+    },
+    {
+      "case_id": "failover-1",
+      "trial": 3,
+      "passed": true
+    },
+    {
+      "case_id": "failover-2",
+      "trial": 1,
+      "passed": true
+    },
+    {
+      "case_id": "failover-2",
+      "trial": 2,
+      "passed": true
+    },
+    {
+      "case_id": "failover-2",
+      "trial": 3,
+      "passed": true
+    },
+    {
+      "case_id": "failover-3",
+      "trial": 1,
+      "passed": true
+    },
+    {
+      "case_id": "failover-3",
+      "trial": 2,
+      "passed": true
+    },
+    {
+      "case_id": "failover-3",
+      "trial": 3,
+      "passed": true
+    },
+    {
+      "case_id": "capacity-1",
+      "trial": 1,
+      "passed": true
+    },
+    {
+      "case_id": "capacity-1",
+      "trial": 2,
+      "passed": true
+    },
+    {
+      "case_id": "capacity-1",
+      "trial": 3,
+      "passed": true
+    },
+    {
+      "case_id": "capacity-2",
+      "trial": 1,
+      "passed": true
+    },
+    {
+      "case_id": "capacity-2",
+      "trial": 2,
+      "passed": true
+    },
+    {
+      "case_id": "capacity-2",
+      "trial": 3,
+      "passed": true
+    },
+    {
+      "case_id": "recovery-1",
+      "trial": 1,
+      "passed": true
+    },
+    {
+      "case_id": "recovery-1",
+      "trial": 2,
+      "passed": true
+    },
+    {
+      "case_id": "recovery-1",
+      "trial": 3,
+      "passed": true
+    },
+    {
+      "case_id": "recovery-2",
+      "trial": 1,
+      "passed": true
+    },
+    {
+      "case_id": "recovery-2",
+      "trial": 2,
+      "passed": true
+    },
+    {
+      "case_id": "recovery-2",
+      "trial": 3,
+      "passed": true
+    }
+  ]
+}
